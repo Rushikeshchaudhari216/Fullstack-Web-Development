@@ -1,0 +1,15 @@
+/* img{
+            filter: blur(10px);
+        } */
+
+.img1 {
+          filter: brightness(150%);
+}
+
+.img2{
+          filter: grayscale(150%);
+}
+
+.img3 {
+          filter: opacity(60%);
+}
